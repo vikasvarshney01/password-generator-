@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Smart Password Manager",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Generate and save passwords automatically with site and username detection.",
   "permissions": ["storage", "scripting","tabs", "activeTab"],
   "host_permissions": ["<all_urls>"],
